@@ -31,8 +31,8 @@ override_dh_install:
 	# remove duplicate eigen files from mathx-dev.install regexp
 	cd debian/libgz-math8-eigen3-dev; find . -type f -exec rm -f ../libgz-math8-dev/{} \;
 	find debian/libgz-math8-dev -type d -empty -delete
-	install -d debian/tmp/usr/share/gz/gz-plugin3/
-	install ./obj-*/*.tag.xml debian/tmp/usr/share/gz/gz-plugin3/
+	install -d debian/tmp/usr/share/gz/gz-math8/
+	install ./obj-*/*.tag.xml debian/tmp/usr/share/gz/gz-math8/
 
 override_dh_auto_test:
 ifeq ($(DEB_HOST_ARCH),armhf)
