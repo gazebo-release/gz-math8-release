@@ -1,3 +1,9 @@
+gz-math8 (8.1.0-1~jammy) jammy; urgency=medium
+
+  * gz-math8 8.1.0-1 release
+
+ -- Michael Carroll <mjcarroll@intrinsic.ai>  Sat, 16 Nov 2024 01:58:21 +0000
+
 gz-math8 (8.0.0-1~jammy) jammy; urgency=medium
 
   * gz-math8 8.0.0-1 release
