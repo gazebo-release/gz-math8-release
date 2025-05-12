@@ -1,3 +1,9 @@
+gz-math8 (8.2.0-1~jammy) jammy; urgency=medium
+
+  * gz-math8 8.2.0-1 release
+
+ -- Ian Chen <ichen@openrobotics.org>  Mon, 12 May 2025 20:36:54 +0000
+
 gz-math8 (8.1.1-1~jammy) jammy; urgency=medium
 
   * gz-math8 8.1.1-1 release
