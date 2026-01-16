@@ -1,3 +1,9 @@
+gz-math8 (8.2.1-1~jammy) jammy; urgency=medium
+
+  * gz-math8 8.2.1-1 release
+
+ -- Addisu Z. Taddese <addisu@openrobotics.org>  Fri, 16 Jan 2026 03:21:08 +0000
+
 gz-math8 (8.2.0-1~jammy) jammy; urgency=medium
 
   * gz-math8 8.2.0-1 release
